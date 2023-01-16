@@ -1,0 +1,42 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0px;
+  width: 8%;
+  align-self: center;
+}
+
+h1 {
+  size: 1.5px;
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+/**********CLASS SELECTORS************/
+
+.job:hover {
+  background: whitesmoke;
+}
+
+.header {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0px;
+  width: 100%;
+  align-self: center;
+}
+
+/************ID SELECTOR*************/
+
+#c {
+  background-color: black;
+}

@@ -1,2 +1,2 @@
 # CV
-my cv
+Trip to Web development...
